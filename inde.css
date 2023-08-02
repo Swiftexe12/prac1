@@ -1,0 +1,24 @@
+body{background-color: aqua;
+     text-transform: capitalize;
+     font-family: 'Arvo', serif;
+}
+a{text-decoration: none;
+  }
+h1{font-size: 60px ;}
+#xx1{text-align: center;
+   }
+#xxx2{list-style: none;
+     margin-top: -60px;
+     margin-left: 180px; 
+}
+#ee{display: inline-block;
+   padding: 7px 14px;
+   border-right:2px solid red;}
+a:link{ text-decoration: none;
+    color: red;
+}
+a:hover{text-decoration: none;
+      background-color: blueviolet;
+      color: firebrick;
+     }
+#ggg1{margin-left: 310px;}

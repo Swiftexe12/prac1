@@ -1,0 +1,36 @@
+body{background-color:  rgba(119, 250, 96, 0.552);
+    text-transform: capitalize;
+    font-family: 'Arvo', serif;
+    padding: 0px;
+    margin-left: 0px;
+}
+a{text-decoration: none;
+ }
+h1{font-size: 60px ;}
+input{border-width: 5px;
+     border-color: rgb(7, 19, 237);
+     border-radius: 50px;
+     border-style::solid;
+     color: red;
+     background-color: rgb(255, 235, 23);
+    }
+form{background-color: rgb(252, 2, 206);
+    width: 600px;
+    margin: 0px auto;
+    padding: 10px ;
+    }
+    #xxx2{list-style: none;
+        margin-top: -60px;
+        margin-left: 180px; 
+   }
+   #ee{display: inline-block;
+      padding: 7px 14px;
+      border-right:2px solid red;}
+   a:link{ text-decoration: none;
+       color: red;
+   }
+   a:hover{text-decoration: none;
+         background-color: blueviolet;
+         color: firebrick;
+        }
+   #ggg1{margin-left: 310px;}
